@@ -13,3 +13,6 @@ console.log(number + word);
 
 //conversão explícita
 console.log(number + +word);
+
+let anakin;
+console.log(anakin)
